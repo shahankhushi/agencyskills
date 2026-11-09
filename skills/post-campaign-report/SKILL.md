@@ -3,7 +3,7 @@ name: post-campaign-report
 description: Generates executive-ready agency campaign wrap reports, C-suite summaries, planned vs actual budget variance analysis, blended MER and platform attribution reconciliation, creative performance league tables (top 5 vs bottom 5 teardowns), audience saturation metrics, and next-quarter strategic recommendations. Use when concluding a campaign flight, delivering monthly or quarterly client wraps, analyzing post-mortem ad performance, or when asked to "post campaign report", "campaign wrap", "monthly client wrap deliverable", "ad post-mortem", "reconcile attribution".
 metadata:
   version: 1.0.0
-  author: darimamhaider
+  author: darhaiderimam
   category: agency-reporting
 ---
 

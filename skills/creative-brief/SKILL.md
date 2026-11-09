@@ -3,7 +3,7 @@ name: creative-brief
 description: Translates marketing strategy and brand positioning into production-ready creative briefs for motion designers, video editors, UGC creators, and copywriters. Generates 3-second hook variations, angle categorization, second-by-second storyboards, aspect ratio specs, visual direction, and call-to-action scripts. Use when preparing creative requests, briefing video editors, commissioning UGC creators, launching new ad creative sprints, or when asked to "write creative brief", "ad brief", "UGC script", "storyboard brief", "motion design brief".
 metadata:
   version: 1.0.0
-  author: darimamhaider
+  author: darhaiderimam
   category: agency-creative
 ---
 

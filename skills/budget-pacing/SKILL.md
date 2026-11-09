@@ -3,7 +3,7 @@ name: budget-pacing
 description: Mid-flight ad spend pacing monitor, under/overspend detection, run-rate burn analysis, and algorithmic budget reallocation logic across Meta, Google Ads, TikTok, and multi-client agency accounts. Use when checking mid-month ad spend pacing, detecting budget waste or runaway spend, calculating projected end-of-month (EOM) spend, reallocating funds between winning and losing campaigns without triggering algorithmic learning resets, or when asked to "check pacing", "budget pacing report", "are we underspending", "reallocate budget", "burn rate analysis".
 metadata:
   version: 1.0.0
-  author: darimamhaider
+  author: darhaiderimam
   category: agency-media
 ---
 

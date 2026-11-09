@@ -3,7 +3,7 @@ name: agency-scoping
 description: Generates professional agency Scopes of Work (SOWs), tiered retainer packages, FTE resource models, blended hourly rate calculations, contingency buffers, deliverables schedules, and legally sound out-of-scope boundaries. Use when scoping new client engagements, quoting monthly retainers, pricing performance marketing or creative services, drafting SOWs, or when asked to "scope agency project", "write SOW", "agency pricing model", "resource allocation estimate", "retainer tiers".
 metadata:
   version: 1.0.0
-  author: darimamhaider
+  author: darhaiderimam
   category: agency-operations
 ---
 

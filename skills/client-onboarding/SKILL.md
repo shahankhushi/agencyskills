@@ -3,7 +3,7 @@ name: client-onboarding
 description: Conducts comprehensive agency-grade client onboarding, extracts core business model, unit economics, target ICPs, brand voice, positioning wedges, channel benchmarks, and generates the standardized client-context.md file required by all agencyskills. Use when onboarding a new client, kicking off an agency engagement, updating brand context, running a marketing audit interview, or when asked to "onboard new client", "create client context", "extract brand positioning", "set up marketing context", "interview client".
 metadata:
   version: 1.0.0
-  author: darimamhaider
+  author: darhaiderimam
   category: agency-foundation
 ---
 

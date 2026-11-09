@@ -3,7 +3,7 @@ name: compliance-check
 description: Verifies ad copy, landing pages, visual concepts, and promotional offers against Meta Advertising Standards, Google Ads Policies, TikTok Policies, and regulatory standards (FTC disclosures, FDA wellness claims, GDPR/CCPA). Detects banned claims, personal attribute violations, deceptive framing, missing material disclosures, and assigns risk severity scores with line-level compliant rewrites. Use before publishing ad copy, auditing landing pages, evaluating high-risk verticals (health, finance, crypto, beauty, supplements), or when asked to "check ad compliance", "Meta ad policy check", "will this ad get banned", "FTC disclosure check", "ad policy review".
 metadata:
   version: 1.0.0
-  author: darimamhaider
+  author: darhaiderimam
   category: agency-compliance
 ---
 
