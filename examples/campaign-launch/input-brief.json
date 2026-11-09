@@ -1,0 +1,16 @@
+{
+  "client_name": "Solara Hydration Labs",
+  "category": "D2C Functional Beverage",
+  "campaign_objective": "Q3 Summer Endurance Launch",
+  "flight_duration_days": 30,
+  "total_budget_usd": 60000,
+  "target_aov_usd": 72.00,
+  "gross_margin_percent": 75,
+  "target_blended_mer": 3.4,
+  "target_cpa_ceiling_usd": 38.00,
+  "primary_channels": ["Meta Ads", "Google Search", "TikTok Ads"],
+  "single_minded_proposition": "The zero-sugar electrolyte drink that eliminates mid-run cramping without causing stomach distress.",
+  "target_icp": "Marathon runners, triathletes, and HYROX competitors aged 25-45 who experience GI distress from commercial sugary hydration powders.",
+  "forbidden_words": ["miracle", "cure", "instant fix", "cheap", "guarantee you will win"],
+  "mandatory_disclaimers": ["*These statements have not been evaluated by the FDA. Results may vary."]
+}

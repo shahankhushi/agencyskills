@@ -1,0 +1,74 @@
+{
+  "name": "agencyskills",
+  "version": "1.0.0",
+  "description": "Production AI marketing skills and workflows for agencies and performance marketers managing multi-client budgets, creative testing, and compliance.",
+  "author": {
+    "name": "Haider",
+    "url": "https://github.com/darimamhaider"
+  },
+  "homepage": "https://github.com/darimamhaider/agencyskills",
+  "repository": "https://github.com/darimamhaider/agencyskills",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "client-onboarding",
+      "path": "skills/client-onboarding/SKILL.md",
+      "description": "Client intake audit and persistent client-context.md generator."
+    },
+    {
+      "name": "media-plan",
+      "path": "skills/media-plan/SKILL.md",
+      "description": "Flighted media planning with 60/20/10/10 channel splits and reach/frequency modeling."
+    },
+    {
+      "name": "budget-pacing",
+      "path": "skills/budget-pacing/SKILL.md",
+      "description": "Mid-flight spend velocity tracking and algorithmic budget reallocation."
+    },
+    {
+      "name": "creative-brief",
+      "path": "skills/creative-brief/SKILL.md",
+      "description": "Production-ready video/image briefs with 3s hooks and second-by-second storyboards."
+    },
+    {
+      "name": "creative-testing-matrix",
+      "path": "skills/creative-testing-matrix/SKILL.md",
+      "description": "Hook x Angle x Format testing matrix with sample size and DCT setup."
+    },
+    {
+      "name": "post-campaign-report",
+      "path": "skills/post-campaign-report/SKILL.md",
+      "description": "C-suite executive wrap deliverable with creative league tables and attribution reconciliation."
+    },
+    {
+      "name": "agency-scoping",
+      "path": "skills/agency-scoping/SKILL.md",
+      "description": "SOW generator, blended hourly rate modeling, and out-of-scope guardrails."
+    },
+    {
+      "name": "new-business",
+      "path": "skills/new-business/SKILL.md",
+      "description": "RFP response engine and audit-led pitch deck architecture."
+    },
+    {
+      "name": "offline-to-online",
+      "path": "skills/offline-to-online/SKILL.md",
+      "description": "Omnichannel attribution connecting digital ads to store visits, phone calls, and retail POS."
+    },
+    {
+      "name": "compliance-check",
+      "path": "skills/compliance-check/SKILL.md",
+      "description": "Pre-flight Meta, Google, TikTok, and FTC/FDA regulatory compliance review with compliant rewrites."
+    },
+    {
+      "name": "vendor-evaluation",
+      "path": "skills/vendor-evaluation/SKILL.md",
+      "description": "Objective MarTech tool evaluation matrix and 3-year TCO calculator."
+    },
+    {
+      "name": "crisis-comms",
+      "path": "skills/crisis-comms/SKILL.md",
+      "description": "15-minute paid media emergency killswitch and PR holding statement protocol."
+    }
+  ]
+}

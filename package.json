@@ -1,0 +1,39 @@
+{
+  "name": "agencyskills",
+  "version": "1.0.0",
+  "description": "Agent skills for people who run budgets, teams, and multi-client marketing, not a single SaaS product.",
+  "main": "index.js",
+  "keywords": [
+    "agent-skills",
+    "claude-skills",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "marketing-agency",
+    "media-planning",
+    "budget-pacing",
+    "creative-brief",
+    "ad-compliance",
+    "performance-marketing"
+  ],
+  "author": "Haider (@darimamhaider)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darimamhaider/agencyskills.git"
+  },
+  "skills": [
+    "skills/client-onboarding",
+    "skills/media-plan",
+    "skills/budget-pacing",
+    "skills/creative-brief",
+    "skills/creative-testing-matrix",
+    "skills/post-campaign-report",
+    "skills/agency-scoping",
+    "skills/new-business",
+    "skills/offline-to-online",
+    "skills/compliance-check",
+    "skills/vendor-evaluation",
+    "skills/crisis-comms"
+  ]
+}
