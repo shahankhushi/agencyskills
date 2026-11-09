@@ -144,4 +144,4 @@ Don't take our word for it. Review committed synthetic runs directly in the repo
 
 ## Contributing & License
 - We welcome contributions that expand agency workflows. Review [CONTRIBUTING.md](CONTRIBUTING.md) for quality criteria.
-- Released under the [MIT License](LICENSE). Built by [@darhaiderimam](https://github.com/darhaiderimam).
+- Released under the [MIT License](LICENSE). Built by [@darhaiderimam](https://github.com/darhaiderimam) • [LinkedIn](https://www.linkedin.com/in/darhaiderimam).
