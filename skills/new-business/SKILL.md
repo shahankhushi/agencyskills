@@ -3,7 +3,7 @@ name: new-business
 description: End-to-end RFP response engine, agency pitch deck architecture, competitor gap analysis, audit-led positioning ("The Pitch Wedge"), 90-day turnaround roadmaps, team staffing plans, and commercial proposals. Use when pitching prospective clients, responding to formal RFPs, auditing an incumbent agency's blind spots, preparing pitch presentations, or when asked to "write RFP response", "agency pitch deck", "audit prospective client", "pitch proposal", "win new client".
 metadata:
   version: 1.0.0
-  author: darhaiderimam
+  author: shahankhushi
   category: agency-sales
 ---
 

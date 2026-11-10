@@ -3,7 +3,7 @@ name: vendor-evaluation
 description: Objective MarTech vendor evaluation and RFP comparison scorecard for marketing teams and agencies selecting software (CDP, Attribution, ESP/SMS, Creative Automation, BI, Reporting). Calculates 3-year Total Cost of Ownership (TCO), rates multi-client agency management features, API limits, data lock-in risks, and weighted requirements criteria. Use when evaluating marketing tech vendors, replacing expensive SaaS subscriptions, drafting MarTech RFIs, or when asked to "compare martech tools", "vendor evaluation scorecard", "Triple Whale vs Northbeam", "Klaviyo vs Attentive", "TCO calculator".
 metadata:
   version: 1.0.0
-  author: darhaiderimam
+  author: shahankhushi
   category: agency-operations
 ---
 

@@ -3,7 +3,7 @@ name: creative-testing-matrix
 description: Structures statistically rigorous ad creative testing architectures: Hook × Format × Angle × Audience matrices. Calculates minimum sample sizes, ad spend per test cell, test sandbox isolation methodologies (Dynamic Creative Testing DCT vs ABO Sandboxes vs Cost Cap validation), kill/scale metrics (3-second hook rate, 15-second hold rate, outbound CTR, CPA), and winner graduation rules into scale campaigns. Use when launching creative sprints, setting up A/B creative tests, auditing test validity, or when asked to "creative testing matrix", "test ad creative", "DCT setup", "hook rate benchmark", "scale winning ads".
 metadata:
   version: 1.0.0
-  author: darhaiderimam
+  author: shahankhushi
   category: agency-creative
 ---
 

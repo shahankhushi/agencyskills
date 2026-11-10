@@ -3,7 +3,7 @@ name: crisis-comms
 description: Rapid-response crisis communications protocol, paid media killswitch automation, severity escalation ladders, holding statement generation, and multi-channel stakeholder sequencing. Use during PR emergencies, viral ad backlash, product recalls, executive controversies, data breaches, or negative review surges, or when asked to "crisis communications plan", "pause all ads killswitch", "write holding statement", "PR emergency protocol", "brand reputation response".
 metadata:
   version: 1.0.0
-  author: darhaiderimam
+  author: shahankhushi
   category: agency-operations
 ---
 

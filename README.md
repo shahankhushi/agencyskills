@@ -13,18 +13,18 @@
 
 ### Option 1: Via npx skills (Recommended)
 ```bash
-npx skills add darhaiderimam/agencyskills
+npx skills add shahankhushi/agencyskills
 ```
 
 ### Option 2: Via Claude Code Plugin Marketplace
 ```bash
-/plugin marketplace add darhaiderimam/agencyskills
-/plugin install agencyskills@darhaiderimam-agencyskills
+/plugin marketplace add shahankhushi/agencyskills
+/plugin install agencyskills@shahankhushi-agencyskills
 ```
 
 ### Option 3: Direct Git Clone / Submodule
 ```bash
-git clone https://github.com/darhaiderimam/agencyskills.git .claude/skills/agencyskills
+git clone https://github.com/shahankhushi/agencyskills.git .claude/skills/agencyskills
 ```
 
 ---
@@ -144,4 +144,4 @@ Don't take our word for it. Review committed synthetic runs directly in the repo
 
 ## Contributing & License
 - We welcome contributions that expand agency workflows. Review [CONTRIBUTING.md](CONTRIBUTING.md) for quality criteria.
-- Released under the [MIT License](LICENSE). Built by [@darhaiderimam](https://github.com/darhaiderimam) • [LinkedIn](https://www.linkedin.com/in/darhaiderimam).
+- Released under the [MIT License](LICENSE). Built by [@shahankhushi](https://github.com/shahankhushi).

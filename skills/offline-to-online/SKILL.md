@@ -3,7 +3,7 @@ name: offline-to-online
 description: Bridges physical retail store visits, call center phone leads, showroom consultations, and brick-and-mortar POS transactions back to digital ad campaigns. Sets up Dynamic Number Insertion (DNI), Google Store Visit conversions, Meta Offline Conversions API (CAPI), customer data SHA-256 hashing standards, promo code incrementality, and geo-matched market testing. Use when attributing digital spend to offline sales, tracking multi-location retail foot traffic, analyzing call tracking conversions, or when asked to "offline attribution", "store visits tracking", "call tracking DNI", "offline CAPI", "measure retail impact of digital ads".
 metadata:
   version: 1.0.0
-  author: darhaiderimam
+  author: shahankhushi
   category: agency-attribution
 ---
 

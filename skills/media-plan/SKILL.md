@@ -3,7 +3,7 @@ name: media-plan
 description: Builds flighted, multi-channel performance media plans with channel budget splits, reach and frequency modeling, funnel stage allocations, and unit economic CAC/ROAS projections across Meta, Google Search, YouTube, TikTok, and Programmatic. Use when planning quarterly or monthly media spend, launching a new campaign, sizing channel budgets, projecting blended CAC and MER, or when asked to "build media plan", "allocate ad spend", "channel budget split", "reach and frequency model", "paid media strategy".
 metadata:
   version: 1.0.0
-  author: darhaiderimam
+  author: shahankhushi
   category: agency-media
 ---
 
